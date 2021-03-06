@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/fab33150/JammingPlaylist/static/css/main.d131d8cf.chunk.css",
-    "main.js": "/fab33150/JammingPlaylist/static/js/main.5693d7bd.chunk.js",
-    "main.js.map": "/fab33150/JammingPlaylist/static/js/main.5693d7bd.chunk.js.map",
-    "runtime-main.js": "/fab33150/JammingPlaylist/static/js/runtime-main.d897f829.js",
-    "runtime-main.js.map": "/fab33150/JammingPlaylist/static/js/runtime-main.d897f829.js.map",
-    "static/js/2.6d726917.chunk.js": "/fab33150/JammingPlaylist/static/js/2.6d726917.chunk.js",
-    "static/js/2.6d726917.chunk.js.map": "/fab33150/JammingPlaylist/static/js/2.6d726917.chunk.js.map",
-    "static/js/3.3e071333.chunk.js": "/fab33150/JammingPlaylist/static/js/3.3e071333.chunk.js",
-    "static/js/3.3e071333.chunk.js.map": "/fab33150/JammingPlaylist/static/js/3.3e071333.chunk.js.map",
-    "index.html": "/fab33150/JammingPlaylist/index.html",
-    "static/css/main.d131d8cf.chunk.css.map": "/fab33150/JammingPlaylist/static/css/main.d131d8cf.chunk.css.map",
-    "static/js/2.6d726917.chunk.js.LICENSE.txt": "/fab33150/JammingPlaylist/static/js/2.6d726917.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/fab33150/JammingPlaylist/static/media/background_photo_desktop.5f5fe555.jpg"
+    "main.css": "/JammingPlaylist/static/css/main.43f996f0.chunk.css",
+    "main.js": "/JammingPlaylist/static/js/main.5693d7bd.chunk.js",
+    "main.js.map": "/JammingPlaylist/static/js/main.5693d7bd.chunk.js.map",
+    "runtime-main.js": "/JammingPlaylist/static/js/runtime-main.b7d734bf.js",
+    "runtime-main.js.map": "/JammingPlaylist/static/js/runtime-main.b7d734bf.js.map",
+    "static/js/2.6d726917.chunk.js": "/JammingPlaylist/static/js/2.6d726917.chunk.js",
+    "static/js/2.6d726917.chunk.js.map": "/JammingPlaylist/static/js/2.6d726917.chunk.js.map",
+    "static/js/3.3e071333.chunk.js": "/JammingPlaylist/static/js/3.3e071333.chunk.js",
+    "static/js/3.3e071333.chunk.js.map": "/JammingPlaylist/static/js/3.3e071333.chunk.js.map",
+    "index.html": "/JammingPlaylist/index.html",
+    "static/css/main.43f996f0.chunk.css.map": "/JammingPlaylist/static/css/main.43f996f0.chunk.css.map",
+    "static/js/2.6d726917.chunk.js.LICENSE.txt": "/JammingPlaylist/static/js/2.6d726917.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JammingPlaylist/static/media/background_photo_desktop.5f5fe555.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d897f829.js",
+    "static/js/runtime-main.b7d734bf.js",
     "static/js/2.6d726917.chunk.js",
-    "static/css/main.d131d8cf.chunk.css",
+    "static/css/main.43f996f0.chunk.css",
     "static/js/main.5693d7bd.chunk.js"
   ]
 }
